@@ -46,6 +46,8 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  前端: web
+  生活: life
 tag_map:
 
 # Date / Time format
@@ -74,4 +76,10 @@ deploy:
 
 baidu_analytics:
   1cc691bb9edfd0b440733c243b8cf1d6
+
+avatar:
+  /images/QQ截图20161105135314.jpg
+
+duoshuo_shortname:
+  smile612
 
