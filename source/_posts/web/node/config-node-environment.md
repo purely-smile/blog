@@ -40,11 +40,11 @@ export NVM_DIR="$HOME/.nvm"
 ```bash
 nvm install 6.9.1
 ```
-也可以使用以下命令安装最新版node
+
+ 也可以使用以下命令安装最新版node
 ```bash
 nvm install node
 ```
-
 
 5. 然后可以查看已安装的node
 ```bash
