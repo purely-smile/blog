@@ -16,6 +16,7 @@ categories: 前端
 
 5. Ie和edge浏览器，css样式中如果top，left没有设置会默认为auto，所以如果需要计算，要先把auto转换为0，然后再计算。
 
+6. a标签不能嵌套，不然html渲染会错乱。
 
 
 ### 参考资料
