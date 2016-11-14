@@ -18,6 +18,8 @@ categories: 前端
 
 6. a标签不能嵌套，不然html渲染会错乱。
 
+7. input设置固定宽度后，设置了padding-top bottom后。在ie和火狐浏览器下会显示不正常。chrome正常。解决方法是取消width限制，或者不用padding。
+
 
 ### 参考资料
 1. [How to add border radius on table row](http://stackoverflow.com/questions/4094126/how-to-add-border-radius-on-table-row)
