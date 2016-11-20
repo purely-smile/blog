@@ -83,3 +83,7 @@ avatar:
 duoshuo_shortname:
   smile612
 
+sitemap:
+path: sitemap.xml
+baidusitemap:
+path: baidusitemap.xml
